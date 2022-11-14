@@ -11,6 +11,7 @@ public class Main {
                 System.out.print("k: " + k);
                 System.out.println(", m: " + m);
             }
+
             m++;
         }
         System.out.println("result: " + result);
